@@ -1,0 +1,1 @@
+[['mario', 'fire', 'fireblast', 999, 999], ['mario', 'fire', 'fireb', 293, 48], ['mario', 'fire', 'fireblast', 392, 49], ['mario', 'earth', 'firesz', 23, 458], ['mariosa', 'wind', 'air', 398, 483]]
